@@ -1,3 +1,3 @@
 # いらっしゃいませ！ Selamat Datang! Welcome!
 
-![wave](img/aynm_wave.gif)
+![wave](https://github.com/DaGamerFiles/dagamerfiles/blob/master/img/aynm_wave.gif)
