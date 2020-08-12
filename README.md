@@ -7,6 +7,9 @@
 [<img align="left" alt="DaGamerFiles | Steam" width="22px" src="https://raw.githubusercontent.com/DaGamerFiles/dagamerfiles/master/img/STEAM_logo.png" />][steam]
 [<img align="left" alt="DaGamerFiles | MyAnimeList" width="22px" src="https://raw.githubusercontent.com/DaGamerFiles/dagamerfiles/master/img/MAL_logo.png" />][myanimelist]
 
+<br />
+<br />
+
 [steam]: https://steamcommunity.com/id/dagamerfiles)
 [twitter]: https://twitter.com/dagamerfiles
 [youtube]: https://www.youtube.com/channel/UCr_0VKZ_8dd9CgclnQrM2pA
