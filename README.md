@@ -1,16 +1,20 @@
-### いらっしゃいませ | Selamat Datang | Welcome
+<p align="left">
+ <h1>いらっしゃいませ | Selamat Datang | Welcome</h1>
+ <br />
+ <img src="https://github.com/DaGamerFiles/dagamerfiles/blob/master/img/aynm_wave.gif" />
+</p>
 
-![wave](https://github.com/DaGamerFiles/dagamerfiles/blob/master/img/aynm_wave.gif)
-
-[<img align="left" alt="DaGamerFiles | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="DaGamerFiles | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="DaGamerFiles | Steam" width="22px" src="https://raw.githubusercontent.com/DaGamerFiles/dagamerfiles/master/img/STEAM_logo.png" />][steam]
-[<img align="left" alt="DaGamerFiles | MyAnimeList" width="22px" src="https://raw.githubusercontent.com/DaGamerFiles/dagamerfiles/master/img/MAL_logo.png" />][myanimelist]
-
-<br />
-<br />
-
-[steam]: https://steamcommunity.com/id/dagamerfiles)
-[twitter]: https://twitter.com/dagamerfiles
-[youtube]: https://www.youtube.com/channel/UCr_0VKZ_8dd9CgclnQrM2pA
-[myanimelist]: https://myanimelist.net/profile/dagamerfiles
+</p>
+ <a href="https://www.youtube.com/channel/UCr_0VKZ_8dd9CgclnQrM2pA">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" width="22px" alt="yt" title="YouTube Channel" align="left" />
+ </a>
+ <a href="https://twitter.com/dagamerfiles">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" width="22px" alt="twitter" title="Twitter" align="left" />
+ </a>
+ <a href="https://steamcommunity.com/id/dagamerfiles">
+  <img src="https://raw.githubusercontent.com/DaGamerFiles/dagamerfiles/master/img/STEAM_logo.png" width="22px" alt="steam" title="Steam" align="left" />
+ </a>
+ <a href="https://myanimelist.net/profile/dagamerfiles">
+  <img src="https://raw.githubusercontent.com/DaGamerFiles/dagamerfiles/master/img/MAL_logo.png" width="22px" alt="mal" title="MyAnimeList" align="left" />
+ </a>
+</p>
